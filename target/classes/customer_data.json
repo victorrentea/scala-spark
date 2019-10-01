@@ -1,0 +1,33 @@
+[
+  {
+    "customerId": 10,
+    "sims": [
+      {
+        "simId": "s1",
+        "startDate": "2010-01-01"
+      },
+      {
+        "simId": "s2",
+        "startDate": "2010-04-01"
+      }
+    ]
+  },
+  {
+    "customerId": 11,
+    "sims": [
+      {
+        "simId": "s1",
+        "startDate": "2010-05-01"
+      }
+    ]
+  },
+  {
+    "customerId": 12,
+    "sims": [
+      {
+        "simId": "s2",
+        "startDate": "2011-01-01"
+      }
+    ]
+  }
+]

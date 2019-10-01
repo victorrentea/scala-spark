@@ -1,0 +1,6 @@
+cell1 sim1 number1 12
+cell2 sim1 number1 20
+cell3 sim1 number1 10
+cell3 sim1 number2 15
+cell1 sim2 number1 40
+cell2 sim2 number2 5
